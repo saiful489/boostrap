@@ -3,3 +3,16 @@
 	background-color: red;
 	margin-bottom: 10px;
 }
+.col-sm{
+	padding-top: 15px;
+    padding-bottom: 15px;
+	background-color: #C7E2D3;
+	border: 1px solid grey;
+}
+
+.col{
+	padding-top: 15px;
+    padding-bottom: 15px;
+	background-color: #C7E2D3;
+	border: 1px solid grey;
+}
